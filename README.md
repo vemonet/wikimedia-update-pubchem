@@ -2,6 +2,12 @@
 
 https://phabricator.wikimedia.org/T208036
 
+
+
+Upload the Quick Statement CSV
+
+<https://tools.wmflabs.org/ash-dev/wdutils/csv2quickstatements.php>
+
 ## Download PubChem
 
 A few commands to download different parts of PubChem FTP can be found in download_pubchem.sh
