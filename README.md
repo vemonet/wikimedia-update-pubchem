@@ -1,6 +1,9 @@
 # Wikimedia Hackathon
 
-https://phabricator.wikimedia.org/T208036
+* Task: https://phabricator.wikimedia.org/T208036
+
+* RDF: ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF
+  * Descriptors: ftp://ftp.ncbi.nlm.nih.gov/pubchem/RDF/descriptor/compound/
 
 
 
